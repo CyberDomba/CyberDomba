@@ -2,9 +2,9 @@ clear
 figlet FCM | lolcat
 
 echo "======================================
-# created by : root 4m3na
-# facebook   : Amena Gans
-# thanks to  : FCM & IDN
+# created by : Sadut
+# facebook   : Fahri
+# thanks to  : Cyber Domba
 
 =======================================" | lolcat
 sleep 3
@@ -73,7 +73,7 @@ if [ $nomor = 6 ]
 then
 apt install bash
 apt install git
-git clone https://github.com/21D4N404/Defacer
-cd Defacer
-sh ICA.sh
+git clone https://github.com/ClayHackerTeam/Deface1
+cd Deface1
+sh index.sh
 fi
