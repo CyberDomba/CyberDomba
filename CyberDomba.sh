@@ -1,5 +1,5 @@
 clear
-figlet FCM | lolcat
+figlet Cyber Domba | lolcat
 
 echo "======================================
 # created by : Sadut
